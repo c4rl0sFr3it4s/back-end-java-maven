@@ -1,1 +1,1 @@
-# back-end-java-hibernate
+# back-end-java-maven
